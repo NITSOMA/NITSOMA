@@ -16,9 +16,9 @@ whether to accept them.
 
 ## Tech I work with
 
-**Backend:** Python · Django · Django REST Framework · PostgreSQL · Redis
-**Frontend:** Angular · TypeScript · RxJS · HTML · CSS
-**Tools:** Git · GitHub · Render · Netlify · Cloudinary
+- **Backend:** Python · Django · Django REST Framework · PostgreSQL · Redis
+- **Frontend:** Angular · TypeScript · RxJS · HTML · CSS
+- **Tools:** Git · GitHub · Render · Netlify · Cloudinary
 
 ## Certifications
 
